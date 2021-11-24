@@ -1,1 +1,2 @@
-
+add disk/bb3/SonicClassic.ar.00
+add disk/bb3/SonicClassic.arl
