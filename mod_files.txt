@@ -1,4 +1,5 @@
 add disk/bb3/SonicClassic.ar.00
 add disk/bb3/SonicClassic.arl
-add changelog.md
+delete changelog.md
+add changelog.txt
 add mod.ini
