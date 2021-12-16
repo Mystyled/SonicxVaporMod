@@ -1,3 +1,1 @@
-add disk/bb3/SonicClassic.ar.00
-add disk/bb3/SonicClassic.ar.0l
 add mod.ini
