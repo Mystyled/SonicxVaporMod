@@ -1,1 +1,14 @@
+add disk/bb2/Title.ar.00
+add disk/bb2/Title.ar.01
+add disk/bb2/Title.arl
+add disk/bb2/TitleToPAM.ar.00
+add disk/bb2/TitleToPAM.ar.01
+add disk/bb3/SonicClassic.ar.00
+add disk/bb3/SonicClassic.ar.01
+add disk/bb3/SonicClassic.arl
+add disk/bb3/SonicSp.ar.00
+add disk/bb3/SonicSp.ar.01
+add disk/bb3/SonicSp.arl
+add disk/bb3/evSonicClassic.ar.00
+add disk/bb3/evSonicClassic.arl
 add mod.ini
